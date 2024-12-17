@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://badge.mediaplus.ma/greenbinary/sabderra" 
-     alt="ahajji's 42 stats" 
-     data-canonical-src="https://badge.mediaplus.ma/greenbinary/sabderra" 
-     style="display: block; margin: auto; position: absolute; top: 0; bottom: 0; left: 0; right: 0; max-width: 100%; height: auto;">
+<img src="https://badge.mediaplus.ma/greenbinary/sabderra" alt="ahajji's 42 stats" data-canonical-src="https://badge.mediaplus.ma/greenbinary/sabderra” style="max-width: 100%;">
