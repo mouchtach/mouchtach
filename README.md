@@ -14,33 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Center Image</title>
-    <style>
-        /* Full-page centering */
-        html, body {
-            height: 100%;
-            margin: 0;
-            display: flex;
-            justify-content: center; /* Center horizontally */
-            align-items: center; /* Center vertically */
-            background-color: #f0f0f0; /* Optional background color */
-        }
-
-        /* Ensuring the image stays responsive */
-        img {
-            max-width: 100%;
-            height: auto;
-        }
-    </style>
-</head>
-<body>
-    <img src="https://badge.mediaplus.ma/greenbinary/sabderra" 
-         alt="ahajji's 42 stats" 
-         data-canonical-src="https://badge.mediaplus.ma/greenbinary/sabderra">
-</body>
-</html>
+<img src="https://badge.mediaplus.ma/greenbinary/sabderra" 
+     alt="ahajji's 42 stats" 
+     data-canonical-src="https://badge.mediaplus.ma/greenbinary/sabderra" 
+     style="display: block; margin: auto; position: absolute; top: 0; bottom: 0; left: 0; right: 0; max-width: 100%; height: auto;">
