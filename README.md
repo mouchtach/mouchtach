@@ -26,10 +26,10 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 ### 📊 My Github Stats:
 <br/>
  <a href="https://github.com/mouchtach">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=prussian&line_height=27" alt="Youssef's github stats" height="220px" />
+   <img align="lift" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=prussian&line_height=27" alt="Youssef's github stats" height="200px" />
   </a>
   <a href="https://github.com/mouchtach">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=prussian&hide_langs_below=1" height="220px"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=prussian&hide_langs_below=1" height="200px"/>
   </a>
  
 <br>
