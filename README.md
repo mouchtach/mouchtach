@@ -4,7 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337"></a>
 </p>
 <br>
-<img align="right" alt="GIF" src="https://badge.mediaplus.ma/binary/ymouchta" width="500" height="320" />
+<img align="right" alt="GIF" src="https://badge.mediaplus.ma/darkblue/ymouchta" width="500" height="320" />
 I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
 
 <br>
