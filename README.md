@@ -39,7 +39,7 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 ### Lets connect through:
 <a href="https://www.facebook.com/share/1DaW5E1Yii/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/youssef_mouchtach"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://x.com/mouchtach190559?t=-nLmFovYYvUsYJS-P5uOYQ&s=09"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/youssef-mouchtach-2807931b8"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
