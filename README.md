@@ -30,7 +30,7 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
  <a href="https://github.com/mouchtach">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=radical&line_height=27" alt="Youssef's github stats" height="220px" />
   </a>
-  <a href="https://github.com/chakravarthi-v">
+  <a href="https://github.com/mouchtach">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=radical&hide_langs_below=1" height="220px"/>
   </a>
  
