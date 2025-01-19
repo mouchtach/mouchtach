@@ -25,31 +25,32 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 ### 📊 My Github Stats:
 <br/>
- <a href="https://github.com/mouchtach">
-   <img align="lift" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=prussian&line_height=20" alt="Youssef's github stats" height="200px" />
-  </a>
-  <a href="https://github.com/mouchtach">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=prussian&hide_langs_below=1&line_height=20" height="200px"/>
-  </a>
- 
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="mouchtach's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mouchtach&show_icons=true&&locale=en&theme=prussian&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouchtach&langs_count=10&show_icons=true&locale=en&theme=prussian" alt="mouchtach" height="230px"/>
+<br/>
 <br>
 
-
-<details>
-
-<summary>
-<h3 style="color: #0000;">Projects I am currently working on</h3>
-
-</summary>
-
-<br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=prussian)](https://github.com/mouchtach/libft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=prussian)](https://github.com/mouchtach/get_next_line)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=prussian)](https://github.com/mouchtach/ft_printf)
-
-<br />
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+	
+<div>
+  <p align="lift">
+	<a href="https://github.com/mouchtach/libft">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=prussian" alt="GitHub Stats" />
+    	</a>
+    <a href="https://github.com/mouchtach/ft_printf">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=prussian" alt="GitHub Stats" />
+    	</a>
+    <a href="https://github.com/mouchtach/get_next_line">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=prussian" alt="GitHub Stats" />
+    	</a>
+      
+	
+  </p>
+</div>
 </details>
+
 
 
 
