@@ -1,10 +1,10 @@
 <h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <br>
-<a href="https://github.com/mouchtach">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337&width=380&height=35&color=00FF00">
-</a>
+<pa lign="lift">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337"></a>
+</p>
 <br>
-<img align="right" alt="GIF" src="https://badge.mediaplus.ma/greenbinary/ymouchta" width="500" height="320" />
+<img align="right" alt="GIF" src="https://badge.mediaplus.ma/binary/ymouchta" width="500" height="320" />
 I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
 
 <br>
@@ -28,10 +28,10 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 ### 📊 My Github Stats:
 <br/>
  <a href="https://github.com/mouchtach">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=gotham&line_height=27" alt="Youssef's github stats" height="220px" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="Youssef's github stats" height="220px" />
   </a>
   <a href="https://github.com/mouchtach">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=gotham&hide_langs_below=1" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" height="220px"/>
   </a>
  
 <br>
@@ -46,9 +46,9 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=gotham)](https://github.com/mouchtach/libft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=gotham)](https://github.com/mouchtach/get_next_line)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=gotham)](https://github.com/mouchtach/ft_printf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=holi)](https://github.com/mouchtach/libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=holi)](https://github.com/mouchtach/get_next_line)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=holi)](https://github.com/mouchtach/ft_printf)
 
 <br />
 </details>
