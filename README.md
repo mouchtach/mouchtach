@@ -1,11 +1,9 @@
 <h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Youssef 👩‍💻</h1>
 <br>
 <a href="https://github.com/mouchtach">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337&width=380&height=45&color=00FF00">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337&width=380&height=20&color=00FF00">
 </a>
-
 <br>
-
 <img align="right" alt="GIF" src="https://badge.mediaplus.ma/greenbinary/ymouchta" width="500" height="320" />
 I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
 
