@@ -4,17 +4,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337&width=380&height=45">
 </a>
 
-I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
-
 <br>
 
 <img align="right" alt="GIF" src="https://badge.mediaplus.ma/levi/ymouchta" width="500" height="320" />
+I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
 
-- ✍ You can explore my projects here [Projects]
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on open source projects
-- 📫 Reach out to me: youssefmouchtach@yahoo.com
-- ⚡ Fun fact: I know how to play the piano
 <br>
 
 
