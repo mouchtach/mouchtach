@@ -26,10 +26,10 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 ### 📊 My Github Stats:
 <br/>
  <a href="https://github.com/mouchtach">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="Youssef's github stats" height="220px" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=prussian&line_height=27" alt="Youssef's github stats" height="220px" />
   </a>
   <a href="https://github.com/mouchtach">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=prussian&hide_langs_below=1" height="220px"/>
   </a>
  
 <br>
@@ -44,9 +44,9 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=holi)](https://github.com/mouchtach/libft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=holi)](https://github.com/mouchtach/get_next_line)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=holi)](https://github.com/mouchtach/ft_printf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=prussian)](https://github.com/mouchtach/libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=prussian)](https://github.com/mouchtach/get_next_line)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=prussian)](https://github.com/mouchtach/ft_printf)
 
 <br />
 </details>
