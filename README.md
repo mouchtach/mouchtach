@@ -1,8 +1,10 @@
 <h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=24&pause=1000&width=435&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337" alt="Typing SVG" /></a>
+<pa lign="lift">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&width=600&height=100&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337"></a>
+</p>
 <br>
-<img align="right" alt="GIF" src="https://badge.mediaplus.ma/darkblue/ymouchta" width="500" height="320" />
+<img align="right" alt="GIF" src="https://badge.mediaplus.ma/binary/ymouchta" width="500" height="320" />
 I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
 
 <br>
@@ -25,32 +27,31 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 ### 📊 My Github Stats:
 <br/>
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="mouchtach's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mouchtach&show_icons=true&&locale=en&theme=prussian&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mouchtach&langs_count=10&show_icons=true&locale=en&theme=prussian" alt="mouchtach" height="230px"/>
-<br/>
+ <a href="https://github.com/mouchtach">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="Youssef's github stats" height="220px" />
+  </a>
+  <a href="https://github.com/mouchtach">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" height="220px"/>
+  </a>
+ 
 <br>
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-	
-<div>
-  <p align="lift">
-	<a href="https://github.com/mouchtach/libft">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=prussian" alt="GitHub Stats" />
-    	</a>
-    <a href="https://github.com/mouchtach/ft_printf">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=prussian" alt="GitHub Stats" />
-    	</a>
-    <a href="https://github.com/mouchtach/get_next_line">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=prussian" alt="GitHub Stats" />
-    	</a>
-      
-	
-  </p>
-</div>
-</details>
 
+<details>
+
+<summary>
+<h3 style="color: #0000;">Projects I am currently working on</h3>
+
+</summary>
+
+<br />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=holi)](https://github.com/mouchtach/libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=holi)](https://github.com/mouchtach/get_next_line)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=holi)](https://github.com/mouchtach/ft_printf)
+
+<br />
+</details>
 
 
 
@@ -58,8 +59,3 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 <a href="https://www.facebook.com/share/1DaW5E1Yii/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://x.com/mouchtach190559?t=-nLmFovYYvUsYJS-P5uOYQ&s=09"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/youssef-mouchtach-2807931b8"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
-
-
-
-
