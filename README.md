@@ -36,14 +36,7 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
  
 <br>
 
-
-<details>
-
-<summary>
-<h3 style="color: #0000;">Projects I am currently working on</h3>
-
-</summary>
-
+<details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
 <br />
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=holi)](https://github.com/mouchtach/libft)
