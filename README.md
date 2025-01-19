@@ -31,7 +31,7 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="Youssef's github stats" height="220px" />
   </a>
   <a href="https://github.com/mouchtach">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" height="220px"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" height="220px"/>
   </a>
  
 <br>
