@@ -1,4 +1,4 @@
-<h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Youssef 👩‍💻</h1>
+<h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <br>
 <a href="https://github.com/mouchtach">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337&width=380&height=35&color=00FF00">
