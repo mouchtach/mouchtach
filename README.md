@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337&width=380&height=35&color=00FF00">
 </a>
 <br>
-<img align="right" alt="GIF" src="https://badge.mediaplus.ma/green/ymouchta" width="500" height="320" />
+<img align="right" alt="GIF" src="https://badge.mediaplus.ma/greenbinary/ymouchta" width="500" height="320" />
 I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
 
 <br>
@@ -46,7 +46,9 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 <br />
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&libft)](https://github.com/mouchtach/libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=gotham)](https://github.com/mouchtach/libft)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=gotham)](https://github.com/mouchtach/get_next_line)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=gotham)](https://github.com/mouchtach/ft_printf)
 
 <br />
 </details>
