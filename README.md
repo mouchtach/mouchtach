@@ -39,10 +39,10 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 ### Lets connect through:
 <a href="https://www.facebook.com/tewaryb/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://twitter.com/bhumika_tewary"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/bhumika-tewary-6673681a4/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href="https://in.pinterest.com/"><img src="https://img.icons8.com/color/48/000000/pinterest--v1.png"/></a>
+<a href="https://twitter.com/youssef_mouchtach"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+<a href="https://www.linkedin.com/in/youssef-mouchtach-2807931b8"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
 
 
 
-[projects]: https://drive.google.com/file/d/1ryZi4rw91dM1LL62zYgHpemjKuxkWHdx/view?usp=sharing
+
+
