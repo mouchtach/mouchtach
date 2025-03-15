@@ -42,6 +42,9 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=holi)](https://github.com/mouchtach/libft)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=holi)](https://github.com/mouchtach/get_next_line)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=holi)](https://github.com/mouchtach/ft_printf)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=push_swap_range&theme=holi)](https://github.com/mouchtach/push_swap_range))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=push_swap_best_move&theme=holi)](https://github.com/mouchtach/push_swap_best_move)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=pipex&theme=holi)](https://github.com/mouchtach/pipex)
 
 <br />
 </details>
