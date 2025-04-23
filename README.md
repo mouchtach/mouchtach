@@ -11,15 +11,14 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 
 ### 📊 My Github Stats:
-<br/>
- <a href="https://github.com/mouchtach">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="Youssef's github stats" height="220px" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
+  <a href="https://github.com/mouchtach">
+    <img src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="GitHub Stats" height="150px"/>
   </a>
   <a href="https://github.com/mouchtach">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" height="220px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" alt="Top Languages" height="150px"/>
   </a>
- 
-<br>
+</div>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
 <br />
