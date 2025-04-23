@@ -1,4 +1,5 @@
-<h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<body>
+    <h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=24&pause=1000&width=435&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337" alt="Typing SVG" /></a>
@@ -43,18 +44,7 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
   </a>
 </div>
 
-<style>
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-      transform: translateY(10px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
-</style>
+
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
 <br />
@@ -75,3 +65,5 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 <a href="https://www.facebook.com/share/1DaW5E1Yii/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
 <a href="https://x.com/mouchtach190559?t=-nLmFovYYvUsYJS-P5uOYQ&s=09"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 <a href="https://www.linkedin.com/in/youssef-mouchtach-2807931b8"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+
+</body>
