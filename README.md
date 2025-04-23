@@ -12,13 +12,49 @@ I'm a student at 42 Network in the 1337 Med, currently mastering coding and prob
 
 ### 📊 My Github Stats:
 <div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
-  <a href="https://github.com/mouchtach">
-    <img src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" alt="GitHub Stats" height="150px"/>
+  <a href="https://github.com/mouchtach" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" 
+      alt="GitHub Stats" 
+      height="150px"
+      style="
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        animation: fadeIn 0.5s ease-out;
+        transform-origin: center;
+      "
+      onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+    />
   </a>
-  <a href="https://github.com/mouchtach">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" alt="Top Languages" height="150px"/>
+  
+  <a href="https://github.com/mouchtach" style="text-decoration: none;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" 
+      alt="Top Languages" 
+      height="150px"
+      style="
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        animation: fadeIn 0.5s ease-out 0.1s;
+        transform-origin: center;
+      "
+      onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
+    />
   </a>
 </div>
+
+<style>
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+</style>
 
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
 <br />
