@@ -17,9 +17,9 @@
       Focused on mastering coding, problem-solving, and developing efficient and creative software solutions across various programming languages.
     </td>
     <td align="center" style="width: 70%;">
-      <a href="https://github.com/oakoudad/badge42">
+<!--       <a href="https://github.com/mouchtach"> -->
         <img src="https://badge.mediaplus.ma/binary/ymouchta" alt="ymouchta's 42 stats" width="900"/>
-      </a>
+<!--       </a> -->
     </td>
   </tr>
 </table>
