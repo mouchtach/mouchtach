@@ -9,7 +9,20 @@
 ---
 
 ### 👨‍💻 About Me  
-I am a passionate student at the 42 Network, 1337 Med. Focused on mastering coding, problem-solving, and developing efficient and creative software solutions across various programming languages.
+
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 30%;">
+      I am a passionate student at the 42 Network, 1337 Med.<br/>
+      Focused on mastering coding, problem-solving, and developing efficient and creative software solutions across various programming languages.
+    </td>
+    <td align="center" style="width: 70%;">
+      <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/binary/ymouchta" alt="ymouchta's 42 stats" width="900"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
