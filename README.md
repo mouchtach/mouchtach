@@ -1,69 +1,51 @@
-<body>
-    <h1 >Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+# 👋 Hello World!  
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave"/>
 
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=24&pause=1000&width=435&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337" alt="Typing SVG" /></a>
-<br>
+---
 
-<!-- <img align="right" alt="GIF" src="https://badge.mediaplus.ma/binary/ymouchta" width="500" height="320" />-->
-I'm a student at 42 Network in the 1337 Med, currently mastering coding and problem-solving skills in various programming languages. My journey in tech is all about learning, creating, and contributing to meaningful projects!
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=480&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337" alt="Typing SVG" />
+</a>
 
-<br>
+---
 
+### 👨‍💻 About Me  
+I am a passionate student at the 42 Network, 1337 Med. Focused on mastering coding, problem-solving, and developing efficient and creative software solutions across various programming languages.
 
-### 📊 My Github Stats:
-<div style="display: flex; align-items: center; justify-content: center; gap: 1rem;">
-  <a href="https://github.com/mouchtach" style="text-decoration: none;">
+---
+
+### 📊 GitHub Stats  
+
+<div align="center" style="display: flex; gap: 2rem; justify-content: center; flex-wrap: wrap;">
+  <a href="https://github.com/mouchtach" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27" 
       alt="GitHub Stats" 
-      height="150px"
-      style="
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        animation: fadeIn 0.5s ease-out;
-        transform-origin: center;
-      "
-      onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'"
+      height="160"
+      style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 20px rgba(0,0,0,0.12)'"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
     />
   </a>
-  
-  <a href="https://github.com/mouchtach" style="text-decoration: none;">
+
+  <a href="https://github.com/mouchtach" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1" 
       alt="Top Languages" 
-      height="150px"
-      style="
-        transition: transform 0.3s ease, box-shadow 0.3s ease;
-        animation: fadeIn 0.5s ease-out 0.1s;
-        transform-origin: center;
-      "
-      onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 16px rgba(0,0,0,0.1)'"
+      height="160"
+      style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 20px rgba(0,0,0,0.12)'"
       onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
     />
   </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <a href="https://github.com/mouchtach/1337-Cursus-42" target="_blank" rel="noopener noreferrer" style="background-color:#4CAF50; color:white; padding: 10px 25px; border-radius: 6px; text-decoration:none; font-weight:600; font-size:16px; box-shadow: 0 4px 8px rgba(0,0,0,0.15); transition: background-color 0.3s ease;">
+    👉 Visit My 42 Cursus Projects
+  </a>
+</div>
 
 
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>	
-<br />
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=libft&theme=holi)](https://github.com/mouchtach/libft)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=get_next_line&theme=holi)](https://github.com/mouchtach/get_next_line)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=ft_printf&theme=holi)](https://github.com/mouchtach/ft_printf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=push_swap_range&theme=holi)](https://github.com/mouchtach/push_swap_range))
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=push_swap_best_move&theme=holi)](https://github.com/mouchtach/push_swap_best_move)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mouchtach&repo=pipex&theme=holi)](https://github.com/mouchtach/pipex)
-
-<br />
-</details>
-
-
-
-### Lets connect through:
-<a href="https://www.facebook.com/share/1DaW5E1Yii/"><img src="https://img.icons8.com/fluency/48/000000/meta.png"/></a>
-<a href="https://x.com/mouchtach190559?t=-nLmFovYYvUsYJS-P5uOYQ&s=09"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
-<a href="https://www.linkedin.com/in/youssef-mouchtach-2807931b8"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-
-</body>
