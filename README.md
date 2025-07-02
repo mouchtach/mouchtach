@@ -9,7 +9,9 @@
 ---
 
 ### 👨‍💻 About Me  
-I am a passionate student at the 42 Network, 1337 Med. Focused on mastering coding, problem-solving, and developing efficient and creative software solutions across various programming languages.
+
+| <img src="https://github.com/mouchtach/mouchtach/my.png" width="250" alt="Youssef Mouchtach" /> | I am a passionate student at the 42 Network, 1337 Med. Focused on mastering coding, problem-solving, and developing efficient and creative software solutions across various programming languages. |
+|---|---|
 
 ---
 
@@ -46,5 +48,3 @@ I am a passionate student at the 42 Network, 1337 Med. Focused on mastering codi
     👉 Visit My 42 Cursus Projects
   </a>
 </div>
-
-
