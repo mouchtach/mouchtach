@@ -22,8 +22,6 @@ I am a passionate student at the 42 Network, 1337 Med. Focused on mastering codi
       alt="GitHub Stats" 
       height="160"
       style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 20px rgba(0,0,0,0.12)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
     />
   </a>
 
@@ -33,8 +31,6 @@ I am a passionate student at the 42 Network, 1337 Med. Focused on mastering codi
       alt="Top Languages" 
       height="160"
       style="border-radius: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;"
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 12px 20px rgba(0,0,0,0.12)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'"
     />
   </a>
 </div>
@@ -46,3 +42,17 @@ I am a passionate student at the 42 Network, 1337 Med. Focused on mastering codi
     👉 Visit My 42 Cursus Projects
   </a>
 </div>
+
+---
+### 🌐 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/youssef-mouchtach-2807931b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.com/users/710241903857106996" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</p>
+
+---
