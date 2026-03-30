@@ -3,7 +3,7 @@
 ---
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=480&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&width=480&color=FF0000&lines=Welcome+to+my+GitHub;I'm+Youssef+Mouchtach;Student+at+Coding+School+1337" alt="Typing SVG" />
 </a>
 
 ---
@@ -18,7 +18,7 @@
     </td>
     <td align="center" style="width: 70%;">
 <!--       <a href="https://github.com/mouchtach"> -->
-        <img src="https://badge.mediaplus.ma/binary/ymouchta" alt="ymouchta's 42 stats" width="900"/>
+        <img src="https://badge.mediaplus.ma/black/ymouchta" alt="ymouchta's 42 stats" width="900"/>
 <!--       </a> -->
     </td>
   </tr>
