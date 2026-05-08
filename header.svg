@@ -1,0 +1,169 @@
+<svg viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg" width="900" height="200">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0000;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0d0d0d;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1a0000;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Red neon glow filter -->
+    <filter id="neonRed" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur1"/>
+      <feGaussianBlur stdDeviation="8" result="blur2"/>
+      <feGaussianBlur stdDeviation="16" result="blur3"/>
+      <feMerge>
+        <feMergeNode in="blur3"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow for subtitle -->
+    <filter id="softGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Scanline pattern -->
+    <pattern id="scanlines" x="0" y="0" width="900" height="3" patternUnits="userSpaceOnUse">
+      <rect width="900" height="1" fill="rgba(255,0,0,0.03)"/>
+      <rect y="1" width="900" height="2" fill="transparent"/>
+    </pattern>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="rgba(180,0,0,0.12)" stroke-width="0.5"/>
+    </pattern>
+
+    <!-- Corner glow -->
+    <radialGradient id="cornerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#ff0000;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:0"/>
+    </radialGradient>
+
+    <!-- Clip path -->
+    <clipPath id="bannerClip">
+      <rect width="900" height="200" rx="6" ry="6"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#bannerClip)">
+
+    <!-- Base background -->
+    <rect width="900" height="200" fill="url(#bgGrad)"/>
+
+    <!-- Grid overlay -->
+    <rect width="900" height="200" fill="url(#grid)"/>
+
+    <!-- Scanlines -->
+    <rect width="900" height="200" fill="url(#scanlines)"/>
+
+    <!-- Center glow bloom -->
+    <ellipse cx="450" cy="100" rx="420" ry="100" fill="url(#cornerGlow)" opacity="0.6"/>
+
+    <!-- Decorative top line -->
+    <line x1="0" y1="0" x2="900" y2="0" stroke="#ff0000" stroke-width="1.5" opacity="0.9"/>
+    <!-- Decorative bottom line -->
+    <line x1="0" y1="199" x2="900" y2="199" stroke="#ff0000" stroke-width="1.5" opacity="0.9"/>
+
+    <!-- Side accent lines -->
+    <line x1="0" y1="0" x2="0" y2="200" stroke="#ff0000" stroke-width="1.5" opacity="0.9"/>
+    <line x1="899" y1="0" x2="899" y2="200" stroke="#ff0000" stroke-width="1.5" opacity="0.9"/>
+
+    <!-- Top-left corner bracket -->
+    <polyline points="0,0 40,0 40,4" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+    <polyline points="0,0 0,40 4,40" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+
+    <!-- Top-right corner bracket -->
+    <polyline points="900,0 860,0 860,4" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+    <polyline points="900,0 900,40 896,40" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+
+    <!-- Bottom-left corner bracket -->
+    <polyline points="0,200 40,200 40,196" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+    <polyline points="0,200 0,160 4,160" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+
+    <!-- Bottom-right corner bracket -->
+    <polyline points="900,200 860,200 860,196" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+    <polyline points="900,200 900,160 896,160" fill="none" stroke="#ff0000" stroke-width="2.5"/>
+
+    <!-- Horizontal deco lines -->
+    <line x1="60" y1="26" x2="280" y2="26" stroke="#ff0000" stroke-width="0.6" opacity="0.5"/>
+    <line x1="620" y1="26" x2="840" y2="26" stroke="#ff0000" stroke-width="0.6" opacity="0.5"/>
+    <line x1="60" y1="174" x2="280" y2="174" stroke="#ff0000" stroke-width="0.6" opacity="0.5"/>
+    <line x1="620" y1="174" x2="840" y2="174" stroke="#ff0000" stroke-width="0.6" opacity="0.5"/>
+
+    <!-- Small corner dots -->
+    <circle cx="60" cy="26" r="2" fill="#ff0000" opacity="0.7"/>
+    <circle cx="840" cy="26" r="2" fill="#ff0000" opacity="0.7"/>
+    <circle cx="60" cy="174" r="2" fill="#ff0000" opacity="0.7"/>
+    <circle cx="840" cy="174" r="2" fill="#ff0000" opacity="0.7"/>
+
+    <!-- Glitch slice 1 -->
+    <rect x="0" y="62" width="900" height="2" fill="#ff000008"/>
+    <!-- Glitch slice 2 -->
+    <rect x="0" y="130" width="900" height="1.5" fill="#ff000008"/>
+
+    <!-- Main name — shadow/ghost layer (glitch effect) -->
+    <text x="453" y="116"
+      font-family="'Courier New', 'Lucida Console', monospace"
+      font-size="72"
+      font-weight="900"
+      letter-spacing="14"
+      text-anchor="middle"
+      fill="#ff000020"
+      dx="4" dy="2">
+      YOUSSEF
+    </text>
+
+    <!-- Main name — red neon -->
+    <text x="450" y="114"
+      font-family="'Courier New', 'Lucida Console', monospace"
+      font-size="72"
+      font-weight="900"
+      letter-spacing="14"
+      text-anchor="middle"
+      fill="#ff1111"
+      filter="url(#neonRed)">
+      YOUSSEF
+    </text>
+
+    <!-- Subtitle -->
+    <text x="450" y="150"
+      font-family="'Courier New', 'Lucida Console', monospace"
+      font-size="13"
+      font-weight="400"
+      letter-spacing="8"
+      text-anchor="middle"
+      fill="#cc2222"
+      filter="url(#softGlow)"
+      opacity="0.85">
+      MOUCHTACH · 1337 MED · 42 NETWORK
+    </text>
+
+    <!-- Top label -->
+    <text x="450" y="20"
+      font-family="'Courier New', monospace"
+      font-size="9"
+      letter-spacing="4"
+      text-anchor="middle"
+      fill="#ff000055">
+      // STUDENT · SOFTWARE &amp; MOBILE DEVELOPER //
+    </text>
+
+    <!-- Bottom label -->
+    <text x="450" y="192"
+      font-family="'Courier New', monospace"
+      font-size="9"
+      letter-spacing="3"
+      text-anchor="middle"
+      fill="#ff000055">
+      [ MOROCCO · MA · 2025 ]
+    </text>
+
+  </g>
+</svg>
