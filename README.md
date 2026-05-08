@@ -49,7 +49,7 @@ $ echo $STATUS
 
 <div align="center">
 
-<img src="https://badge.mediaplus.ma/black/ymouchta" alt="ymouchta's 42 stats" width="500"/>
+<img src="https://badge.mediaplus.ma/black/ymouchta" alt="ymouchta's 42 stats" />
 
 </div>
 
