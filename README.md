@@ -2,21 +2,12 @@
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ CYBER HEADER ░░░░░░░░░░░░░░░░░░░░ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4&section=header" width="100%"/>
-
-```
-██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗█████╗  █████╗  
-  ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██╔══╝  ██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║     
-   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝     
-```
+<!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0,0,0,255&height=4&section=header" width="100%"/> -->
 
 <!-- Terminal typing name effect -->
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&pause=2000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=_+Youssef+Mouchtach;&duration=3000&deleteDuration=80&delayBetweenLines=1000" alt="Terminal Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+Student+%40+1337+Med+·+42+Network;%3E+Software+%26+Mobile+Developer;%3E+C%2B%2B+%7C+Flutter+%7C+Linux;%3E+Always+learning%2C+always+shipping..." alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=%3E+Student+%40+1337+Med+·+42+Network;%3E+Software+%26+Mobile+Developer;%3E+C%2B%2B+%7C+Flutter+%7C+Linux;%3E+Always+learning%2C+always+shipping..." alt="Typing SVG" /> -->
 
 <br/>
 
@@ -58,7 +49,7 @@ $ echo $STATUS
 
 <div align="center">
 
-<img src="https://badge.mediaplus.ma/black/ymouchta" alt="ymouchta's 42 stats" width="600"/>
+<img src="https://badge.mediaplus.ma/black/ymouchta" alt="ymouchta's 42 stats" width="500"/>
 
 </div>
 
