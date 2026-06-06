@@ -65,24 +65,7 @@ $ echo $STATUS
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=FF0000)
 ![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=c%2B%2B&logoColor=FF0000)
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF0000)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF0000)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=FF0000)
-![Dart](https://img.shields.io/badge/Dart-0d0d0d?style=for-the-badge&logo=dart&logoColor=FF0000)
 ![Shell](https://img.shields.io/badge/Shell-0d0d0d?style=for-the-badge&logo=gnu-bash&logoColor=FF0000)
-
-```
-> MOBILE DEV ─────────────────────────────────────────────
-```
-![Flutter](https://img.shields.io/badge/Flutter-0d0d0d?style=for-the-badge&logo=flutter&logoColor=FF0000)
-![React Native](https://img.shields.io/badge/React_Native-0d0d0d?style=for-the-badge&logo=react&logoColor=FF0000)
-
-```
-> WEB & BACKEND ──────────────────────────────────────────
-```
-![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=FF0000)
-![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=FF0000)
-![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=FF0000)
-![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=FF0000)
 
 ```
 > TOOLS & ENVIRONMENT ────────────────────────────────────
@@ -91,8 +74,6 @@ $ echo $STATUS
 ![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=FF0000)
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=FF0000)
 ![VS Code](https://img.shields.io/badge/VSCode-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=FF0000)
-![Vim](https://img.shields.io/badge/Vim-0d0d0d?style=for-the-badge&logo=vim&logoColor=FF0000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF0000)
 
 ---
 
