@@ -77,36 +77,6 @@ $ echo $STATUS
 
 ---
 
-<!-- ░░░░░░░░░░░░░░░░░░░░ GITHUB STATS ░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=99999&color=FF0000&width=300&lines=%5B+GITHUB_STATS.sh+%5D" alt="section"/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mouchtach&count_private=false&hide=stars&show_icons=true&theme=holi&line_height=27&title_color=FF0000&icon_color=c62828&border_color=FF0000" alt="GitHub Stats" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mouchtach&hide=ASP.NET,jupyter%20notebook&theme=holi&hide_langs_below=1&title_color=FF0000&border_color=FF0000" alt="Top Languages" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=mouchtach&theme=dark&hide_border=false&border=FF0000&stroke=FF0000&ring=FF0000&fire=ff4444&currStreakLabel=FF0000&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&dates=888888&sideLabels=aaaaaa" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ ACTIVITY ░░░░░░░░░░░░░░░░░░░░ -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=99999&color=FF0000&width=300&lines=%5B+ACTIVITY.sh+%5D" alt="section"/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mouchtach&theme=github-dark&bg_color=0d1117&color=FF0000&line=c62828&point=ff4444&area=true&border_color=FF0000" width="95%" alt="Activity Graph"/>
-
-</div>
-
----
-
 <!-- ░░░░░░░░░░░░░░░░░░░░ CURSUS ░░░░░░░░░░░░░░░░░░░░ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&pause=99999&color=FF0000&width=300&lines=%5B+42_CURSUS.sh+%5D" alt="section"/>
